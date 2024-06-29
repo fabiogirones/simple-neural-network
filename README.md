@@ -2,4 +2,4 @@ Disclaimer: I take 0 credits for this project. It is a simple "Neural Network fr
 
 # Simple Neural Network using Python
 # Step 1: Structure of the Neural Network
-![alt text](https://github.com/fabiogirones/simple-neural-network/NeuralNetwork.jpg.jpg?raw=true)
+![alt text](https://github.com/fabiogirones/simple-neural-network/NeuralNetwork.jpg?raw=true)
