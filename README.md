@@ -8,6 +8,7 @@ A typical neural network consists of three types of layers:
 - Input layer: receives the input data
 - Hidden layer: perform computations and feature extraction
 - Output layer: produces the final output
+- 
 ![Epochs Network](https://github.com/fabiogirones/simple-neural-network/assets/45832602/32ebe1a9-0380-42f1-914b-29a3756b641b)
 
 ## Step 2: Structure of the Neural Network
@@ -19,8 +20,8 @@ Process: intialize weights (W1, W2), and biases (b1, b2) with random values
 ## Step 3: Activation functions
 ### Sigmoid function
 The sigmoid activation function is a commonly used activation function in neural networks. It maps any real-valued number into the range (0, 1). The function is defined as follows:
-\[ \sigma(x) = \frac{1}{1 + e^{-x}} \]
+σ(x)=1/(1+e^-x)
 
 ### Derivative function
 The derivative of the sigmoid function is useful for backpropagation in neural networks. The derivative can be expressed in terms of the output of the sigmoid function itself. If y is the output of the sigmoid function, then the derivative is:
-\[ \sigma(x) = \frac{1}{1 + e^{-x}} \]
+σ′(x)=x⋅(1−x)
